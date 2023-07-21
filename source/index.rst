@@ -14,6 +14,7 @@ Hello!
 Indices and tables
 ==================
 
+* :ref:`cv`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
